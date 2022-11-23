@@ -1,0 +1,5 @@
+---
+/bag2df/bag2df:
+  ros__parameters:
+    inputDirectory: '/home/haoming/Desktop/fgo_data/rosbag/'
+    outputDirectory: '/home/haoming/Desktop/fgo_data/pickle/'

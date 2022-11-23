@@ -1,0 +1,5 @@
+pytest~=7.1.2
+setuptools~=60.2.0
+numpy~=1.23.1
+pandas~=1.4.3
+rclpy~=3.2.1
